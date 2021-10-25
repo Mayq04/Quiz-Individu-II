@@ -50,7 +50,7 @@ disini saya akan menjelaskan saja beberapa bagian yang menurut saya sangat penti
       ini merupakan fitur yang tak kalah pentingnya selain dari fitur debugger.Fitur Extentsions ini sangat membantu kita untuk memasang beberapa component             pendukung pada saat kita menulis kode, misalkan Extensions AutoComplete, yang dimana fitur ini sama seperti fitur sarankan kalimat yang dimiliki oleh google       yang dimana ketika kita menulis <i>pri</i> maka Vscode akan otomatis memberikan list kalimat yang mungkin akan kita pakai,sehingga sangat berguna sekali           dalam hal produktifitas ngoding kita dan lebih mempersingkat waktu.
       
   ### 4 Snippet
-   <img src="https://github.com/Mayq04/Quiz-Individu-II/blob/main/Asset8.PNG" width="900"><br>
+   <img src="https://github.com/Mayq04/Quiz-Individu-II/blob/main/Asset8.png" width="900"><br>
       Ini merupakan fitur yang sangat saya sukai, meskipun di beberapa text-editor lainnya mempunyai fitur ini juga, Fitur snipet ini hampir sama seperti fitur         autocomplete bedanya fitur ini di buat oleh kita sendiri,untuk contohnya bisa di lihat gambar diatas. Ketika kita ingin membuat sebuah looping for maka kita       tidak harus menulis sintaksnya secara keseluruhan tetapi kita hanya cukup menulis beberapa kata yang sudah kita jadikan paramater pada saat kita membuat           snippet looping ini sehingga kegiataan ngoding kita akan semakin produktif.
       
    
@@ -58,7 +58,7 @@ disini saya akan menjelaskan saja beberapa bagian yang menurut saya sangat penti
    
 
 ## Apa Itu Extensions
-  <img src="https://github.com/Mayq04/Quiz-Individu-II/blob/main/Asset7.PNG" width="900">
+  <img src="https://github.com/Mayq04/Quiz-Individu-II/blob/main/Asset7.png" width="900">
 <br>
   Extensions pada Vscode dan Extensions bahasa pemograman merupakan 2 hal yang berbeda, yang dimana Extensions pada Vscode merupakan sebuah file pustaka yang       didalamnya berisi kode yang bertujuan untuk mempermudah kita dalam hal menulis kode, sedangkan Extensions Bahasa Pemograman merupakan file yang berisi             pemrograman yang berfungsi untuk memperluas kemampuan atau data yang tersedia ke program yang lebih mendasar. Extension terkadang harus disimpan dalam file       ekstensi terpisah agar mudah ditemukan. Saat memasang perangkat lunak, Anda mungkin diminta untuk mengambil satu atau beberapa langkah yang terkait dengan         pemasangan extension (atau langkah-langkah ini dapat dilakukan secara otomatis untuk Anda).<br>
   Dibawah ini merupakan contoh Extensions Pyhton yang ada pada Vscode<br>
